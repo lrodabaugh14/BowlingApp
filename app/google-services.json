@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "493552049110",
+    "firebase_url": "https://bowilingapp.firebaseio.com",
+    "project_id": "bowilingapp",
+    "storage_bucket": "bowilingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493552049110:android:36479d11c3b18580",
+        "android_client_info": {
+          "package_name": "com.example.lrodabaugh14.bowlingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493552049110-rf6pe0bhasrnb8100ketvt3ur0jc0c3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lrodabaugh14.bowlingapp",
+            "certificate_hash": "d746bc3a940b06cf81cdd550dedc025cd5d34e94"
+          }
+        },
+        {
+          "client_id": "493552049110-j0gol3no30pl9neq39hdio4phc12b2rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmfFzsuFz4s1xhDadHd3sxt0JBHojjy3E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493552049110-j0gol3no30pl9neq39hdio4phc12b2rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
